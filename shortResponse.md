@@ -34,7 +34,7 @@ Look at these two CSS rules:
 ```
 
 Explain what happens to the image on a small screen with each rule. Why does one behave better than the other?
-Because 50% has change size based on user screen size ,on small screen it has change to small image
+width50% is better,because 50% has change size based on user screen size ,on small screen width:50% has change size ,but 400px always don't change the size ,it always looks same,so 50%is better
 
 
 
